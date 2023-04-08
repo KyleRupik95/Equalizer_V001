@@ -1,0 +1,9 @@
+﻿  EffectPlugin.cpp
+C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\MyEffect\src\EffectExtra.h(49,9): warning C4101: 'y': unreferenced local variable
+C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\MyEffect\src\EffectExtra.h(58,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'double'
+C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\MyEffect\src\EffectPlugin.cpp(50,9): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\MyEffect\src\EffectPlugin.cpp(57,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\MyEffect\src\EffectPlugin.cpp(103,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\MyEffect\src\EffectPlugin.cpp(105,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\MyEffect\..\Build\MyEffect\Debug\MyEffect.lib and object C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\MyEffect\..\Build\MyEffect\Debug\MyEffect.exp
+  MyEffect.vcxproj -> C:\Users\Kyle Rupik\UWE\Year 2\APDI\Assignment 1\APDI hand in\The code - Final hand in\MyEffect (v1.3)\Build\MyEffect.dll
